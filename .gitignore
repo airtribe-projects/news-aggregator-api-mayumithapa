@@ -1,2 +1,5 @@
 node_modules
 .tap
+.env
+.env.local
+*.log
